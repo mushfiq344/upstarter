@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/navigation/arrow_forword_ios_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.99812988,21.0150001 C6.50812988,20.5350001 6.50812988,19.7350001 6.98812988,19.2550001 L14.2381299,12.0050001 L6.99812988,4.75500007 C6.50812988,4.26500007 6.50812988,3.47500007 6.99812988,2.98500007 C7.48812988,2.49500007 8.27812988,2.49500007 8.76812988,2.98500007 L17.0781299,11.2950001 C17.4681299,11.6850001 17.4681299,12.3150001 17.0781299,12.7050001 L8.76812988,21.0150001 C8.27812988,21.5050001 7.48812988,21.5050001 6.99812988,21.0150001 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/arrow_forword_ios_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Normal" mask="url(#mask-2)" fill="#37474F">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

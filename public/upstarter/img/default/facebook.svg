@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="31px" viewBox="0 0 17 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/social/facebook_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.75,1.5 L16.75,5.5 C16.75,6.05228475 16.3022847,6.5 15.75,6.5 L12.25,6.5 L12.25,6.5 C11.215,6.5 10.75,7.715 10.75,8.75 L10.75,12.5 L14.25,12.5 C14.8022847,12.5 15.25,12.9477153 15.25,13.5 L15.25,17.5 C15.25,18.0522847 14.8022847,18.5 14.25,18.5 L10.75,18.5 L10.75,18.5 L10.75,29.5 C10.75,30.0522847 10.3022847,30.5 9.75,30.5 L5.75,30.5 C5.19771525,30.5 4.75,30.0522847 4.75,29.5 L4.75,18.5 L4.75,18.5 L1.25,18.5 C0.69771525,18.5 0.25,18.0522847 0.25,17.5 L0.25,13.5 C0.25,12.9477153 0.69771525,12.5 1.25,12.5 L4.75,12.5 L4.75,12.5 L4.75,6.5 C4.75,3.1862915 7.4362915,0.5 10.75,0.5 L15.75,0.5 C16.3022847,0.5 16.75,0.94771525 16.75,1.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Web-PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Article" transform="translate(-1292.000000, -1624.000000)">
+            <g id="Share" transform="translate(1278.000000, 1550.000000)">
+                <g id="icon/social/facebook_24px" transform="translate(14.000000, 74.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g fill-rule="nonzero"></g>
+                    <g id="✱-/-Color-/-Icons-/-Followr" mask="url(#mask-2)" fill="#0079BF">
+                        <g transform="translate(-14.000000, -7.000000)" id="Rectangle">
+                            <rect x="0" y="0" width="45" height="45"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
